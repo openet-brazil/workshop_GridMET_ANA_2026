@@ -1,0 +1,19 @@
+LINKS PARA WORKSHOP ANA 2026
+
+# (1) Met - Processamento dados obs:
+https://colab.research.google.com/drive/1nhJpXdjRaoTsQeKckVsqF4tXfQPFWWGU?usp=sharing
+
+# (2) Met - Interpolando dado obs:
+https://colab.research.google.com/drive/1vG26_JhbgK1ZPXywL0aWa1vyFe1aRK5p
+
+
+
+# (3) Chuva - Processamento dados obs:
+https://colab.research.google.com/drive/15AnroHiDEbfu5Ae6Rc3sy9koUdgm8mAx?usp=sharing
+
+# (4) Chuva - Agregando dados sub-diários IMERG Late:
+https://colab.research.google.com/drive/1iJNXMqdRfQiRyBr6zbucpTygQjsiUhpE
+
+# (5) Chuva - Cominando IMERG Late c/ dados in situ
+https://colab.research.google.com/drive/1eYCd0FnCnX272LQlns0kC-AGo_ywoLHh
+
